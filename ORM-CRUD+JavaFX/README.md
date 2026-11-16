@@ -103,7 +103,7 @@ implementadas. Adicione as capturas de tela correspondentes na pasta
 ### Interface principal e listagem de produtos
 
 ![Interface principal e listagem de
-produtos](ORM-CRUD+JavaFX/imagens/Imagem_Sistema_Operacional.png)
+produtos](imagens/Imagem_Sistema_Operacional.png)
 
 ### Cadastro de produto
 
