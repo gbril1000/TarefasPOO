@@ -103,19 +103,19 @@ implementadas. Adicione as capturas de tela correspondentes na pasta
 ### Interface principal e listagem de produtos
 
 ![Interface principal e listagem de
-produtos](imagens/listagem-produtos.png)
+produtos](TarefasPOO/ORM-CRUD+JavaFX/imagens/Imagem_Sistema_Operacional)
 
 ### Cadastro de produto
 
-![Cadastro de produto](imagens/cadastro-produto.png)
+![Cadastro de produto](TarefasPOO/ORM-CRUD+JavaFX/imagens/Imagem_Operacao_Create)
 
 ### Atualização de produto
 
-![Atualização de produto](imagens/atualizacao-produto.png)
+![Atualização de produto](TarefasPOO/ORM-CRUD+JavaFX/imagens/Imagem_Operacao_Update)
 
 ### Exclusão de produto
 
-![Exclusão de produto](imagens/exclusao-produto.png)
+![Exclusão de produto](TarefasPOO/ORM-CRUD+JavaFX/imagens/Imagem_Operacao_Delete)
 
 ## 7. Considerações finais
 
